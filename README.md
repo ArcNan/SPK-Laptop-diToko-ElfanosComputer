@@ -48,7 +48,7 @@ Hierarchy Process (AHP).
    (bash)
    git clone https://github.com/ArcNan/SPK-Laptop-diToko-ElfanosComputer.git
 
-2. Atau langsung jalankan file Install_and_Run.bat
+2. Atau langsung download dan jalankan file Install_and_Run.bat
    
 3. Buat dan aktifkan virtual environment (direkomendasikan):
    (bash)
