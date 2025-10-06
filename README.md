@@ -70,44 +70,35 @@ Instalasi dan Cara Menjalankan
 Clone Repositori
 
 Bash
-
-git clone https://github.com/nama-anda/repositori-ini.git
+git clone (https://github.com/ArcNan/SPK-Laptop-diToko-ElfanosComputer.git)
 cd repositori-ini
 Buat Virtual Environment (Direkomendasikan)
 
 Bash
-
 python -m venv venv
+
 Windows:
-
 Bash
-
 venv\Scripts\activate
+
 macOS/Linux:
-
 Bash
-
 source venv/bin/activate
 Instal Dependensi
 Pastikan Anda memiliki file requirements.txt di direktori proyek.
 
 Bash
-
 pip install -r requirements.txt
 Jalankan Aplikasi
 
 Bash
-
 streamlit run main-app.py
 Aplikasi akan terbuka secara otomatis di browser Anda.
 
 Cara Penggunaan
 Login sebagai Admin:
-
 Username: admin
-
 Password: admin
 
 Gunakan menu di sidebar untuk bernavigasi antara halaman Data Produk, Kriteria, Seleksi, dan manajemen pengguna lainnya.
-
 Untuk pengguna baru, Anda dapat mendaftar melalui menu Tambah Akun di halaman login. Pengguna baru akan otomatis mendapatkan peran "karyawan".
