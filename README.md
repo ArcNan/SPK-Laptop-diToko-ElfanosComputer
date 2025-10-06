@@ -53,18 +53,19 @@ Hierarchy Process (AHP).
 3. Buat dan aktifkan virtual environment (direkomendasikan):
    (bash)
    python -m venv venv
-   source venv/bin/activate  # Untuk macOS/Linux
-   # venv\Scripts\activate   # Untuk Windows
+   
+   * source venv/bin/activate  (Untuk macOS/Linux)
+   * venv\Scripts\activate   (Untuk Windows)
 
-4. Instal semua dependensi yang dibutuhkan:
+5. Instal semua dependensi yang dibutuhkan:
    (bash)
    pip install -r requirements.txt
 
-5. Jalankan aplikasi Streamlit:
+6. Jalankan aplikasi Streamlit:
    (bash)
    streamlit run main-app.py
 
-6. Buka browser dan akses alamat yang muncul di terminal
+7. Buka browser dan akses alamat yang muncul di terminal
    (biasanya http://localhost:8501).
 
 **Akun Default:**
