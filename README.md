@@ -48,21 +48,23 @@ Hierarchy Process (AHP).
    (bash)
    git clone https://github.com/ArcNan/SPK-Laptop-diToko-ElfanosComputer.git
 
-2. Buat dan aktifkan virtual environment (direkomendasikan):
+2. Atau langsung jalankan file Install_and_Run.bat
+   
+3. Buat dan aktifkan virtual environment (direkomendasikan):
    (bash)
    python -m venv venv
    source venv/bin/activate  # Untuk macOS/Linux
    # venv\Scripts\activate   # Untuk Windows
 
-3. Instal semua dependensi yang dibutuhkan:
+4. Instal semua dependensi yang dibutuhkan:
    (bash)
    pip install -r requirements.txt
 
-4. Jalankan aplikasi Streamlit:
+5. Jalankan aplikasi Streamlit:
    (bash)
    streamlit run main-app.py
 
-5. Buka browser dan akses alamat yang muncul di terminal
+6. Buka browser dan akses alamat yang muncul di terminal
    (biasanya http://localhost:8501).
 
 **Akun Default:**
