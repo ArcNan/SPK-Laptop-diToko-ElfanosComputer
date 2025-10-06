@@ -1,0 +1,50 @@
+Id,Merk,Tipe,Prosesor,Ram,Penyimpanan,Vga,Layar,Baterai,Sistem Operasi,Harga
+1,HP,Pavilion x360,i3-1125G4,8,512 GB SSD,Intel UHD,"14""",43 Wh,Windows,7999000
+2,Dell,Vostro 14,i5-1135G7,8,512 GB SSD,Intel Iris Xe,"14""",44 Wh,Windows,8399000
+3,Axioo,Hype 10,Celeron N4020,8,256 GB SSD,Intel UHD,"14""",38 Wh,Windows,2950000
+4,ASUS,ROG Strix G15,Ryzen 7 6800H,16,1 TB SSD,RTX 3060,"15.6""",90 Wh,Windows,18999000
+5,Acer,Aspire 3 A314,Celeron N4500,4,256 GB SSD,Intel UHD,"14""",36 Wh,Windows,4000000
+6,Dell,Inspiron 14,i3-1215U,8,512 GB SSD,Intel UHD,"14""",41 Wh,Windows,7299000
+7,HP,14s-dq0508TU,Celeron N4020,4,256 GB SSD,Intel UHD,"14""",38 Wh,Windows,4099000
+8,ASUS,TUF Gaming F15,i7-12700H,16,1 TB SSD,RTX 3060,"15.6""",90 Wh,Windows,19999000
+9,HP,14s-fq1092AU,Ryzen 5 5500U,8,512 GB SSD,AMD Radeon,"14""",47 Wh,Windows,7999000
+10,Acer,ConceptD 5,i7-11800H,16,1 TB SSD,RTX A3000,"15.6""",95 Wh,Windows,29999000
+11,Acer,Aspire Vero,i5-1155G7,8,512 GB SSD,Intel Iris Xe,"15.6""",49 Wh,Windows,8699000
+12,ASUS,Vivobook Go 14,Ryzen 5 7520U,8,512 GB SSD,AMD Radeon,"14""",42 Wh,Windows,8199000
+13,ASUS,Zenbook Pro Duo,i9-12900H,32,1 TB SSD,RTX 3070 Ti,"15.6""",92 Wh,Windows,32999000
+14,HP,Spectre x360,i7-1355U,16,1 TB SSD,Intel Iris Xe,"13.5""",67 Wh,Windows,23999000
+15,Lenovo,Slim D330,Celeron N4020,4,128 GB SSD,Intel UHD,"10.1""",29 Wh,Windows,3899000
+16,ASUS,BR1100F,Celeron N4500,4,128 GB eMMC,Intel UHD,"11.6""",42 Wh,Windows,3599000
+17,HP,OMEN 16,i7-12700H,16,1 TB SSD,RTX 3060,"16.1""",83 Wh,Windows,20999000
+18,Acer,Predator Helios 300,i7-12700H,16,1 TB SSD,RTX 3060,"15.6""",90 Wh,Windows,19999000
+19,HP,Stream 11,Intel N4000,4,64 GB eMMC,Intel UHD,"11.6""",41 Wh,Windows,3499000
+20,Lenovo,Yoga Slim 7i,i7-1260P,16,1 TB SSD,Intel Iris Xe,"14""",61 Wh,Windows,18999000
+21,Acer,Aspire 5 Slim,Ryzen 5 5500U,8,512 GB SSD,AMD Radeon,"15.6""",48 Wh,Windows,7899000
+22,HP,Chromebook 11,Celeron N3350,4,32 GB eMMC,Intel HD,"11.6""",43 Wh,ChromeOS,3199000
+23,Dell,Inspiron 15 3511,i5-1135G7,8,512 GB SSD,Intel Iris Xe,"15.6""",42 Wh,Windows,8899000
+24,Lenovo,Flex 5,Ryzen 5 5500U,8,512 GB SSD,AMD Radeon,"14""",50 Wh,Windows,8599000
+25,Acer,Nitro 5,Ryzen 7 6800H,16,1 TB SSD,RTX 3070,"15.6""",90 Wh,Windows,20999000
+26,HP,15s-fq2672TU,i5-1155G7,8,512 GB SSD,Intel Iris Xe,"15.6""",45 Wh,Windows,8799000
+27,Lenovo,IdeaPad Slim 3,i3-1215U,8,256 GB SSD,Intel UHD,"14""",38 Wh,Windows,6799000
+28,Lenovo,Yoga 6,Ryzen 5 5500U,8,512 GB SSD,AMD Radeon,"13.3""",60 Wh,Windows,8999000
+29,ASUS,E410MA,Celeron N4020,4,256 GB SSD,Intel UHD,"14""",37 Wh,Windows,3599000
+30,Axioo,Mybook Hype 5,Ryzen 5 5500U,8,256 GB SSD,AMD Radeon,"14""",45 Wh,Windows,5200000
+31,Dell,Inspiron 15 3510,Celeron N4020,4,256 GB SSD,Intel UHD,"15.6""",40 Wh,Windows,4399000
+32,HP,ZBook Studio G8,i9-11900H,32,2 TB SSD,RTX A5000,"15.6""",83 Wh,Windows,37999000
+33,Lenovo,IdeaPad 1,Athlon Silver 3050U,4,256 GB SSD,AMD Radeon,"14""",35 Wh,Windows,4199000
+34,Acer,Swift 3,Ryzen 5 5625U,8,512 GB SSD,AMD Radeon,"14""",48 Wh,Windows,8799000
+35,Dell,Alienware x15,i9-12900H,32,2 TB SSD,RTX 3080,"15.6""",87 Wh,Windows,34999000
+36,Lenovo,ThinkPad X1 Extreme,i7-11800H,16,1 TB SSD,RTX 3060,"16""",90 Wh,Windows,26999000
+37,ASUS,X441MA,Celeron N4000,4,500 GB HDD,Intel UHD,"14""",37 Wh,Windows,4499000
+38,Lenovo,Legion 5 Pro,Ryzen 7 5800H,16,1 TB SSD,RTX 3070,"16""",80 Wh,Windows,21499000
+39,Lenovo,100e Gen 2,AMD A4-9120C,4,64 GB eMMC,Radeon R3,"11.6""",42 Wh,ChromeOS,3699000
+40,Acer,Extensa 15,Athlon Silver 3050U,4,500 GB HDD,AMD Radeon,"15.6""",38 Wh,Windows,4599000
+41,ASUS,X515EA,i5-1135G7,8,512 GB SSD,Intel Iris Xe,"15.6""",45 Wh,Windows,8499000
+42,Dell,Precision 5770,i9-12900H,32,2 TB SSD,RTX A3000,"17""",97 Wh,Windows,38999000
+43,Dell,Latitude 3190,Celeron N4100,4,128 GB SSD,Intel UHD,"11.6""",38 Wh,Windows,4299000
+44,Dell,XPS 15,i7-12700H,16,1 TB SSD,RTX 3050,"15.6""",86 Wh,Windows,21999000
+45,ASUS,Vivobook A416,i3-1115G4,8,512 GB SSD,Intel UHD,"14""",42 Wh,Windows,6499000
+46,Acer,Spin 1,Pentium Silver N5030,4,128 GB eMMC,Intel UHD,"11.6""",36 Wh,Windows,3799000
+47,ASUS,L210MA,Celeron N4020,4,64 GB eMMC,Intel UHD,"11.6""",38 Wh,Windows,3799000
+48,MacBook Air 13,M1 (2020),Apple M1,8,256 GB SSD,Apple M1 GPU,"13""",50 Wh,MacOS,12499000
+49,MacBook Air 13,M2 (2022),Apple M2,8,256 GB SSD,Apple M2 GPU,"14""",52 Wh,MacOS,18999000

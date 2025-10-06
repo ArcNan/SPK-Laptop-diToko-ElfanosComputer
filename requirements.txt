@@ -1,0 +1,6 @@
+streamlit
+pandas
+streamlit_option_menu
+fpdf
+db-sqlite3
+numpy
